@@ -1,1 +1,1 @@
-AI WOOOO!
+This is the code from a project completed in collaboration with four other students for the module Introduction to Artificial Intelligence during my BSc in Mathematics at the University of Bristol. It received a grade of 85%. The code consists of various AI models competing in games in the OpenAI Gym. Unfortunately, the write-up has been lost. 
